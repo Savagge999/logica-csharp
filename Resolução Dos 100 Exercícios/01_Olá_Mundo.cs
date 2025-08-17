@@ -6,8 +6,10 @@ namespace Olá_Mundo
     {
         static void Main(string[] args)
         {
+            // Comando para escrever no console
             Console.WriteLine("Olá, Mundo!");
             Console.WriteLine("Me livrei da maldição!");
         }
     }
 }
+
